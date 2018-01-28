@@ -1,6 +1,6 @@
 # Block-Project
 [Block Project website](http://www.the-block-project.com/home/)
-![Block Project]https://github.com/argo-marketplace/Block-Project/blob/master/block-seattle.png
+![](https://github.com/argo-marketplace/Block-Project/blob/master/block-seattle.png)
 
 ## What is this?
 This is a spatial analysis of Seattle Parcel Data for the Block Project. 
