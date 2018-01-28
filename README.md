@@ -1,6 +1,8 @@
 # Block-Project
 [Block Project website](http://www.the-block-project.com/home/)
 
+*The image shows the 120,000 parcels across various Residential zoning that have a total lot size > 4,000 sqft.*
+
 ![](https://github.com/argo-marketplace/Block-Project/blob/master/block-seattle.png)
 
 ## What is this?
