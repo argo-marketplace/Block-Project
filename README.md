@@ -16,10 +16,8 @@ This analysis is aimed towards building a list of residential clusters in Seattl
 ## How is this being done?
  1. We retrieved King County Parcel Data from the [King County Parcel Viewer](gismaps.kingcounty.gov/parcelviewer2/)
  2. We used [American Fact Finder](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t) to retrieve King County Census Tracts as well as Demographic data.
- 3. We isolate the following Census variables from the American Community Survey (2011-2016) 5-year estimates.
-    - Age
-    - Median Household Income
-    - Educational Attainment
+ 3. We isolate Census variables from the American Community Survey (2011-2016) 5-year estimates.
+    - Age, Income, and Education of households
     - [% Own vs Rent](https://censusreporter.org/data/map/?table=B25007&geo_ids=16000US5363000,140|16000US5363000&primary_geo_id=16000US5363000)
     - [Mortgage Status](https://censusreporter.org/data/map/?table=B25081&geo_ids=16000US5363000,140|16000US5363000&primary_geo_id=16000US5363000#column|B25081008,sumlev|140)
 4. A score is calculated based on these variables. The Census Tracts with the highest scores exhibit those areas in Seattle where the Block Project can focus their outreach efforts and build critical mass.
