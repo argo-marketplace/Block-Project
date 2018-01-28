@@ -19,4 +19,4 @@ This analysis is aimed towards building a list of residential clusters in Seattl
 4. A score is calculated based on these variables. The Census Tracts with the highest scores exhibit those areas in Seattle where the Block Project can focus their outreach efforts and build critical mass.
 
 ## What's next?
-Upon refining the spatial analysis,  we plan to use lob.com to programmatically send mailers to households in areas that exhibit strong characteristics towards participating in the Block Project.
+Upon refining the spatial analysis,  we plan to use [lob.com](http://www.lob.com) to programmatically send mailers to households in areas that exhibit strong characteristics towards participating in the Block Project.
