@@ -1,7 +1,7 @@
 # Block-Project
 [Block Project website](http://www.the-block-project.com/home/)
 
-*The image shows the 120,000 parcels across various Residential zoning that have a total lot size > 4,000 sqft.*
+*The image shows the 120,000 parcels across various Residential zoning in Seattle that have a total lot size > 4,000 sqft.( Minimum area required to participate in Block Project)*
 
 ![](https://github.com/argo-marketplace/Block-Project/blob/master/block-seattle.png)
 
@@ -9,7 +9,7 @@
 This is a spatial analysis of Seattle Parcel Data for the Block Project. 
 
 ## Why is this needed?
-Based on preliminary analysis of King County Parcel Data, the city of Seattle has 120,000 residential parcels with a lot size of >4,000 sqft (the minimum area required to participate in Block Project)
+Based on preliminary analysis of King County Parcel Data, the city of Seattle has 120,000 residential parcels with a lot size of >4,000 sqft (the minimum area required to participate in Block Project).
 
 This analysis is aimed towards building a list of residential clusters in Seattle that exhibit amenable characteristics to participating in the Block Project.
 		
