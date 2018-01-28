@@ -1,7 +1,7 @@
 # Block-Project
 [Block Project website](http://www.the-block-project.com/home/)
 
-*The image shows the 120,000 parcels across various Residential zoning in Seattle that have a total lot size > 4,000 sqft.( Minimum area required to participate in Block Project)*
+*The image shows the 120,000 parcels across various residential zoning in Seattle that have a total lot size > 4,000 sqft. (Minimum area required to participate in Block Project)*
 
 ![](https://github.com/argo-marketplace/Block-Project/blob/master/block-seattle.png)
 
