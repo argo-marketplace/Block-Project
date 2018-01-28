@@ -20,8 +20,8 @@ This analysis is aimed towards building a list of residential clusters in Seattl
     - Age
     - Median Household Income
     - Educational Attainment
-    - % Own vs Rent
-    - Tenure
+    - [% Own vs Rent](https://censusreporter.org/data/map/?table=B25007&geo_ids=16000US5363000,140|16000US5363000&primary_geo_id=16000US5363000)
+    - [Mortgage Status](https://censusreporter.org/data/map/?table=B25081&geo_ids=16000US5363000,140|16000US5363000&primary_geo_id=16000US5363000#column|B25081008,sumlev|140)
 4. A score is calculated based on these variables. The Census Tracts with the highest scores exhibit those areas in Seattle where the Block Project can focus their outreach efforts and build critical mass.
 
 ## What's next?
