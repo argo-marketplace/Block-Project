@@ -14,6 +14,9 @@ Based on preliminary analysis of King County Parcel Data, the city of Seattle ha
 This analysis is aimed towards building a list of residential clusters in Seattle that exhibit amenable characteristics to participating in the Block Project.
 		
 ## How is this being done?
+
+[Results of a preliminary analysis](https://nyu.carto.com/u/ajd629/builder/526cb315-e677-4e59-bdb8-da26d355f20d/embed)
+
  1. We retrieved King County Parcel Data from the [King County Parcel Viewer](gismaps.kingcounty.gov/parcelviewer2/)
  2. We used [American Fact Finder](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t) to retrieve King County Census Tracts as well as Demographic data.
  3. We isolate Census variables from the American Community Survey (2011-2016) 5-year estimates.
