@@ -1,5 +1,12 @@
-1. Retrieve King County Parcel Data
-2. Retrieve Seattle alleys from Open Street Map using Overpass API 
+[Carto map showing neighborhood view](http://bit.ly/block-project-carto) 
+[Tableau map showing block view](http://bit.ly/block-project-tableau) 
+
+
+----------
+
+
+1. [Retrieve King County Parcel Data](ftp://ftp.kingcounty.gov/gis-web/GISData/property_SHP.zip)
+2. Retrieve Seattle alleys from Open Street Map using [Overpass API](http://overpass-turbo.eu/) 
 ```
 [out:json][timeout:45];
 (
