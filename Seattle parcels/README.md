@@ -1,4 +1,5 @@
-[Carto map showing neighborhood view](http://bit.ly/block-project-carto) 
+[Carto map showing neighborhood view](http://bit.ly/block-project-carto)
+
 [Tableau map showing block view](http://bit.ly/block-project-tableau) 
 
 
