@@ -1,5 +1,9 @@
+
 # Block-Project
-[Block Project website](http://www.the-block-project.com/home/)
+via [Block Project website](http://www.the-block-project.com/home/)
+
+*The BLOCK Project invites community into the task of ending homelessness by placing a BLOCK Home in the backyard of one single-family lot on every residentially zoned block within the City of Seattle. Each 125 sq ft home is beautifully designed to be off-grid, self-sufficient, and amenity-rich (featuring a kitchen, bathroom, sleeping area, solar-panels, greywater system, composting toilet, etc.). The BLOCK Project represents an innovative leap forward on the issues of homelessness, cross-class integration, social inclusion, and architectural design.
+The BLOCK Project is a housing initiative and a community building project. Through its integrated design, this project will not only offer opportunities for healing and advancement to those formerly living on the fringes of society, but it will also bring connection, relationship, and compassion to the center of our lives and communities. Many social injustices, including homelessness, are perpetuated through emotional and physical separation, which allows us to get stuck on the complexity of the issue. By literally saying, “Yes, in my backyard”, we will begin to see the person afflicted by the issue. We believe this will nurture the empathy needed to catalyze a global movement.*
 
 *The image shows the 120,000 parcels across various residential zoning in Seattle that have a total lot size > 4,000 sqft. (Minimum area required to participate in Block Project)*
 
@@ -26,4 +30,5 @@ This analysis is aimed towards building a list of residential clusters in Seattl
 4. A score is calculated based on these variables. The Census Tracts with the highest scores exhibit those areas in Seattle where the Block Project can focus their outreach efforts and build critical mass.
 
 ## What's next?
-Upon refining the spatial analysis,  we plan to use [lob.com](http://www.lob.com) to programmatically send mailers to households in areas that exhibit strong characteristics towards participating in the Block Project.
+- Develop a YIMBY Score for Housing Stressed American cities.
+- Upon refining the spatial analysis,  use [lob.com](http://www.lob.com) to programmatically send mailers to households in areas that exhibit strong characteristics towards participating in the Block Project.
